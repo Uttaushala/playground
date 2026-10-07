@@ -1,0 +1,1 @@
+Console.WriteLine($"Привет, меня зовут Данил. Сегодня {DateTime.Now}");
